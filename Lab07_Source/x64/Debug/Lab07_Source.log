@@ -1,0 +1,5 @@
+﻿  Lab07.cpp
+C:\Users\Christina\Source\Repos\Lab07\Lab07_Source\Lab07.cpp(97): warning C4715:  'get_mpg': not all control paths return a value
+C:\Users\Christina\Source\Repos\Lab07\Lab07_Source\Lab07.cpp(42): warning C4715:  'get_miles': not all control paths return a value
+C:\Users\Christina\Source\Repos\Lab07\Lab07_Source\Lab07.cpp(71): warning C4715:  'get_gallons': not all control paths return a value
+  Lab07_Source.vcxproj -> C:\Users\Christina\Source\Repos\Lab07\x64\Debug\Lab07_Source.exe
